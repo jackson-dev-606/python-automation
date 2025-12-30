@@ -1,2 +1,3 @@
-# python-automation
-Repo for Python Automation
+# Python Automation Playground 🐍⚙️
+
+This repo is my personal Python automation sandbox, where I practice real-world skills in **Python, APIs, and AI**: a ChatGPT-powered chatbot 🤖 (`Chatbot Using ChatGPT`), scripts that integrate with external APIs 🌐 (`APIs`), utilities for navigating and organizing directories and paths 📂 (`Path and Folders`), and helpers for reading, writing, and transforming files 📝 (`Working with Files`). Each folder is a small, focused project that shows how I think about automation — from using environment variables and `.gitignore` to protect secrets 🔐 to keeping the code simple, readable, and easy to extend.
